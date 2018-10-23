@@ -17,7 +17,7 @@
   "dependencies": {
     "@akala/client": "^2.0.4",
     "@akala/core": "^2.0.33",
-    "ioredis": "^3.2.2",
+    "ioredis": "^4.2.0",
     "levenshtein": "^1.0.5"
   },
   "peerDependencies": {
