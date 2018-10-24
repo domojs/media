@@ -98,10 +98,6 @@
   version "0.2.2"
   resolved "https://npm.fontawesome.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.2.tgz#7fd64eacf7f64e4d7619d21b0b2f2467f5a70611"
 
-"@types/bluebird@*":
-  version "3.5.23"
-  resolved "https://registry.yarnpkg.com/@types/bluebird/-/bluebird-3.5.23.tgz#e805da976b76892b2b2e50eec29e84914c730670"
-
 "@types/caseless@*":
   version "0.12.1"
   resolved "https://registry.yarnpkg.com/@types/caseless/-/caseless-0.12.1.tgz#9794c69c8385d0192acc471a540d1f8e0d16218a"
@@ -120,11 +116,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/ioredis@^3.2.7":
-  version "3.2.14"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-3.2.14.tgz#c7594cedc2b3618bb1b1358e635c9271b8cb3666"
+"@types/ioredis@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.0.3.tgz#afe760593c8095cbc31cf0751937c102d937d7a3"
   dependencies:
-    "@types/bluebird" "*"
     "@types/node" "*"
 
 "@types/jquery@^3.3.1":
