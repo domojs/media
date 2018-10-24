@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@akala-modules/core": "^1.0.27",
-    "@akala/cli": "^0.0.8",
+    "@akala/cli": "^0.0.9",
     "@akala/server": "^2.0.30",
     "@domojs/db": "^1.1.0",
     "@domojs/theme-default": "^1.1.3",
