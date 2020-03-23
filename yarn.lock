@@ -30,12 +30,12 @@
   optionalDependencies:
     "@akala-modules/authentication" "^0.1.7"
 
-"@akala/cli@^0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@akala/cli/-/cli-0.0.9.tgz#7bb1a6d651273c78ad694406c5495ae290fe31ed"
-  integrity sha1-e7Gm1lEnPHitaUQGxUla4pD+Me0=
+"@akala/cli@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@akala/cli/-/cli-0.0.10.tgz#652af0e4a4667c2a762555a3a2ce1ee347e4f71a"
+  integrity sha512-KwfRSLh94jGMCGrSkEXLLkOZeUc0FcU/gJAigrdz0tDNozi06XKexZABFWT32jAC+/5Qka5c4ok5a3TAjnIYGw==
   dependencies:
-    "@akala/core" "^2.0.0"
+    "@akala/core" "^2.0.55"
     "@akala/server" "^2.0.5"
     mkdirp "^0.5.1"
     mock-require "^3.0.2"
@@ -47,7 +47,7 @@
   optionalDependencies:
     showdown "^1.8.6"
 
-"@akala/core@^2.0.0", "@akala/core@^2.0.65", "@akala/core@^2.0.87", "@akala/core@^2.0.96", "@akala/core@^2.0.97":
+"@akala/core@^2.0.0", "@akala/core@^2.0.55", "@akala/core@^2.0.65", "@akala/core@^2.0.87", "@akala/core@^2.0.96", "@akala/core@^2.0.97":
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/@akala/core/-/core-2.1.2.tgz#7958adcf52bc96bd79fd6739779bd4888336b4b0"
   integrity sha512-lmYfRmCuYDxAQRMf+T0kXvVxZHePhhKKtgDx4xDwmg9OEqeZ4gO+P35ZQr96R6GzyhMD/YSFND9b3rp7SqkU4g==
