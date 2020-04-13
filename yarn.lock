@@ -66,7 +66,7 @@
     utils-merge "^1.0.0"
     ws "^7.2.1"
 
-"@akala/json-rpc-ws@^7.0.0", "@akala/json-rpc-ws@^7.0.1", "@akala/json-rpc-ws@^7.0.2":
+"@akala/json-rpc-ws@^7.0.0", "@akala/json-rpc-ws@^7.0.2":
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/@akala/json-rpc-ws/-/json-rpc-ws-7.0.2.tgz#543138e11a2a40fda2deb221bbae32afed65405b"
   integrity sha512-uGt5GH367eYz2H/8rMnDM3CREWwWBW30Im0H3ipLZoqBMqxQNTxxwzchew7db+a+uXcJ2ora8Rrg53S5AmB2+g==
@@ -75,10 +75,10 @@
     uuid "^3.3.2"
     ws "^6.0.0"
 
-"@akala/json-rpc-ws@^9.0.13":
-  version "9.0.13"
-  resolved "https://registry.yarnpkg.com/@akala/json-rpc-ws/-/json-rpc-ws-9.0.13.tgz#557290d15c9fb229b0510e1b2513111c565af11f"
-  integrity sha512-NI0o1iRvHR67p0nrLu3nFfnicqVIcFnlqZQ2Vl466Vck4AJ2Pg95h27oUQXjZCvWMEshR6it26DxWY3/cyLAaA==
+"@akala/json-rpc-ws@^9.0.13", "@akala/json-rpc-ws@^9.0.16":
+  version "9.0.16"
+  resolved "https://registry.yarnpkg.com/@akala/json-rpc-ws/-/json-rpc-ws-9.0.16.tgz#b1f22399a429a88374e988c9d43a037de5d886fd"
+  integrity sha512-y9FUFWg+WexaOnyJ7efL0mg41GY/VUYnpDjWsOAIenvQL5HwLRKyt3/5DjgX48aYJG58yA1ROsMLF8NUz6NOfQ==
   dependencies:
     debug "^4.1.1"
     uuid "^7.0.3"
