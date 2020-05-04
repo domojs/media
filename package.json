@@ -29,7 +29,7 @@
   "devDependencies": {
     "@akala-modules/core": "^1.1.3",
     "@akala/cli": "^0.0.9",
-    "@akala/json-rpc-ws": "^7.0.1",
+    "@akala/json-rpc-ws": "^9.0.32",
     "@akala/server": "^2.1.11",
     "@domojs/db": "^1.1.5",
     "@domojs/theme-default": "^1.1.24",
