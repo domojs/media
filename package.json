@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "@akala/client": "^2.0.71",
-    "@akala/core": "^2.0.65",
+    "@akala/core": "^4.0.13",
     "ioredis": "^4.6.2",
     "levenshtein": "^1.0.5"
   },
