@@ -73,7 +73,7 @@
     ws "^7.2.3"
     yargs-parser "^20.2.0"
 
-"@akala/core@^2.0.0", "@akala/core@^2.0.65", "@akala/core@^2.0.87", "@akala/core@^2.0.96", "@akala/core@^2.0.97":
+"@akala/core@^2.0.0", "@akala/core@^2.0.87", "@akala/core@^2.0.96", "@akala/core@^2.0.97":
   version "2.1.21"
   resolved "https://registry.yarnpkg.com/@akala/core/-/core-2.1.21.tgz#4fb7779cbeb51a6039b6a019a65c3bdf71502293"
   integrity sha512-C58ovPCeapeT3Da4AAGXkObYWOwhtg6KxegW59qG7R4+TmzPgwkzEPWjoAmOBniWAhxg/xjLKY5z0dhTdDgyGg==
@@ -91,12 +91,12 @@
     utils-merge "^1.0.0"
     ws "^7.2.1"
 
-"@akala/core@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@akala/core/-/core-6.0.0.tgz#e9d790689d391ce821a7d4a81abd896b859fc462"
-  integrity sha512-Mtk2BN/vzngHL//9EENLNQupRqnQ4OSJrxiGuEsNlguARJKu19u4TxDtOgRXyaIctp/ZSaDusxMS/5NzX2TGrA==
+"@akala/core@^6.0.0", "@akala/core@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@akala/core/-/core-6.0.2.tgz#399531a9025d2e6d721c9c8be70e3e5103537033"
+  integrity sha512-wfeC5MLdSWbyuCTXjIyTIaOqmo04HpHp8i6Kvc3lZcnzLzb7mWh1p63hGr9tbjKQlrazAC8QyI+nw4viVQM2Dg==
   dependencies:
-    "@akala/json-rpc-ws" "^9.1.7"
+    "@akala/json-rpc-ws" "^9.1.9"
     browser-process-hrtime "^1.0.0"
     debug "^4.1.1"
     es6-promise "^4.2.8"
@@ -119,19 +119,10 @@
     uuid "^3.3.2"
     ws "^6.0.0"
 
-"@akala/json-rpc-ws@^9.0.16":
-  version "9.0.16"
-  resolved "https://registry.yarnpkg.com/@akala/json-rpc-ws/-/json-rpc-ws-9.0.16.tgz#b1f22399a429a88374e988c9d43a037de5d886fd"
-  integrity sha512-y9FUFWg+WexaOnyJ7efL0mg41GY/VUYnpDjWsOAIenvQL5HwLRKyt3/5DjgX48aYJG58yA1ROsMLF8NUz6NOfQ==
-  dependencies:
-    debug "^4.1.1"
-    uuid "^7.0.3"
-    ws "^7.2.3"
-
-"@akala/json-rpc-ws@^9.1.7":
-  version "9.1.7"
-  resolved "https://registry.yarnpkg.com/@akala/json-rpc-ws/-/json-rpc-ws-9.1.7.tgz#b3e742f2cf92dc0a63839ea5d4632fcce64371f7"
-  integrity sha512-deI8ofqOVChdQOZC5whedfWQX+4gbEQkxa6msDVAhuN4rzYPl0tKeYG1lqzLTNfE62dZ2sA+VtlK/PNExd3qng==
+"@akala/json-rpc-ws@^9.0.16", "@akala/json-rpc-ws@^9.1.7", "@akala/json-rpc-ws@^9.1.9":
+  version "9.1.9"
+  resolved "https://registry.yarnpkg.com/@akala/json-rpc-ws/-/json-rpc-ws-9.1.9.tgz#7fab9e621561eea3aced714d871c37ee9fffc293"
+  integrity sha512-aEC4rJTR26MucKe+mNbxW5Gl1Q05wFCYRikYq22zRfJpfbjTcn4VMHCpELn6bhSKquqcrVxbC3U6mU2ABtFCUQ==
   dependencies:
     debug "^4.1.1"
     reflect-metadata "^0.1.13"
@@ -8174,11 +8165,6 @@ uuid@^3.0.1, uuid@^3.3.2, uuid@^3.3.3:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.3.tgz#4568f0216e78760ee1dbf3a4d2cf53e224112866"
   integrity sha512-pW0No1RGHgzlpHJO1nsVrHKpOEIxkGg1xB+v0ZmdNH5OAeAwzAVrCnI2/6Mtx+Uys6iaylxa+D3g4j63IKKjSQ==
-
-uuid@^7.0.3:
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-7.0.3.tgz#c5c9f2c8cf25dc0a372c4df1441c41f5bd0c680b"
-  integrity sha512-DPSke0pXhTZgoF/d+WSt2QaKMCFSfx7QegxEWT+JOuHF5aWrKEn0G+ztjuJg/gG8/ItK+rbPCD/yNv8yyih6Cg==
 
 uuid@^8.0.0:
   version "8.1.0"
